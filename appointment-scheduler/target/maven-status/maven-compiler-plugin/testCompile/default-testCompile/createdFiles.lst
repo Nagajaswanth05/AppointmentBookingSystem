@@ -1,0 +1,13 @@
+com\example\scheduler\service\BookingServiceTest$Adjacency.class
+com\example\scheduler\service\BookingServiceTest.class
+com\example\scheduler\service\RandomizedInvariantTest.class
+com\example\scheduler\service\BookingServiceTest$Cancellation.class
+com\example\scheduler\service\TestTimes.class
+com\example\scheduler\service\BookingServiceTest$DifferentProviders.class
+com\example\scheduler\api\AppointmentControllerTest$Reply.class
+com\example\scheduler\service\BookingConcurrencyTest.class
+com\example\scheduler\service\BookingServiceTest$InvalidInput.class
+com\example\scheduler\api\AppointmentControllerTest.class
+com\example\scheduler\service\BookingServiceTest$SameProviderOverlap.class
+com\example\scheduler\ApplicationContextTest.class
+com\example\scheduler\service\BookingServiceTest$SuccessfulBooking.class
